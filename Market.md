@@ -1,0 +1,2 @@
+### [Download from Android Market](https://market.android.com/details?id=com.overkill.live.pony) or use QR-code ###
+![http://chart.apis.google.com/chart?cht=qr&chl=https%3A%2F%2Fmarket.android.com%2Fdetails%3Fid%3Dcom.overkill.live.pony&chs=260x260&foo=image.jpg](http://chart.apis.google.com/chart?cht=qr&chl=https%3A%2F%2Fmarket.android.com%2Fdetails%3Fid%3Dcom.overkill.live.pony&chs=260x260&foo=image.jpg)
